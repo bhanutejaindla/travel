@@ -1,24 +1,24 @@
-import logo from './logo.svg';
+import React from 'react';
+import { Box, Flex, Heading, Button, Input, Select, Grid, Text } from '@chakra-ui/react';
 import './App.css';
+import  Header from './components/Header/Header.jsx';
+import  PopularDestinations from './components/PopularDestinations/PopularDestinations.jsx';
+import  GreatDeals from './components/GreatDeals/GreatDeals.jsx';
+import NewsletterSignup from './components/NewsletterSignup/NewsletterSignup.jsx';
+import Footer from './components/Footer/Footer.jsx';
+import Navbar from './components/Navbar/Navbar.jsx';
+import SearchResults from './Routes/SearchResults/SearchResults.jsx';
+import { Routes, Route } from 'react-router-dom';
+import Home from './Routes/Home/Home.jsx';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Box>
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/search-results' element={<SearchResults />} />
+        </Routes>
+    </Box>
   );
 }
 

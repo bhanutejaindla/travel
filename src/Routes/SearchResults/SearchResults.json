@@ -1,0 +1,78 @@
+[
+    {
+      "outbound": {
+        "date": "Wed, Oct 18",
+        "departureTime": "21:50",
+        "arrivalTime": "23:00",
+        "departureAirport": "Gdansk Lech Walesa (GDN)",
+        "arrivalAirport": "Poznan - Lawica (POZ)",
+        "duration": "1h 10m"
+      },
+      "inbound": {
+        "date": "Wed, Oct 20",
+        "departureTime": "21:50",
+        "arrivalTime": "23:00",
+        "departureAirport": "Poznan - Lawica (POZ)",
+        "arrivalAirport": "Gdansk Lech Walesa (GDN)",
+        "duration": "1h 10m"
+      },
+      "price": 110
+    },
+    {
+      "outbound": {
+        "date": "Wed, Oct 18",
+        "departureTime": "21:50",
+        "arrivalTime": "23:00",
+        "departureAirport": "Gdansk Lech Walesa (GDN)",
+        "arrivalAirport": "Poznan - Lawica (POZ)",
+        "duration": "1h 10m"
+      },
+      "inbound": {
+        "date": "Wed, Oct 20",
+        "departureTime": "21:50",
+        "arrivalTime": "23:00",
+        "departureAirport": "Poznan - Lawica (POZ)",
+        "arrivalAirport": "Gdansk Lech Walesa (GDN)",
+        "duration": "1h 10m"
+      },
+      "price": 110
+    },
+    {
+      "outbound": {
+        "date": "Wed, Oct 18",
+        "departureTime": "21:50",
+        "arrivalTime": "23:00",
+        "departureAirport": "Gdansk Lech Walesa (GDN)",
+        "arrivalAirport": "Poznan - Lawica (POZ)",
+        "duration": "1h 10m"
+      },
+      "inbound": {
+        "date": "Wed, Oct 20",
+        "departureTime": "21:50",
+        "arrivalTime": "23:00",
+        "departureAirport": "Poznan - Lawica (POZ)",
+        "arrivalAirport": "Gdansk Lech Walesa (GDN)",
+        "duration": "1h 10m"
+      },
+      "price": 110
+    },
+    {
+      "outbound": {
+        "date": "Wed, Oct 18",
+        "departureTime": "21:50",
+        "arrivalTime": "23:00",
+        "departureAirport": "Gdansk Lech Walesa (GDN)",
+        "arrivalAirport": "Poznan - Lawica (POZ)",
+        "duration": "1h 10m"
+      },
+      "inbound": {
+        "date": "Wed, Oct 20",
+        "departureTime": "21:50",
+        "arrivalTime": "23:00",
+        "departureAirport": "Poznan - Lawica (POZ)",
+        "arrivalAirport": "Gdansk Lech Walesa (GDN)",
+        "duration": "1h 10m"
+      },
+      "price": 110
+    }
+  ]
